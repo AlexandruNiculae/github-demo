@@ -1,10 +1,4 @@
-
-
-
-def operation(a, b):
-    return a+b
-
-
+from big_code import operation
 
 if __name__ == "__main__":
 
